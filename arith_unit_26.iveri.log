@@ -1,0 +1,6 @@
+arith_unit_26.sv:33: sorry: constant selects in always_* processes are not currently supported (all bits will be included).
+arith_unit_26.sv:33: sorry: constant selects in always_* processes are not currently supported (all bits will be included).
+arith_unit_26.sv:33: sorry: constant selects in always_* processes are not currently supported (all bits will be included).
+arith_unit_26.sv:33: sorry: constant selects in always_* processes are not currently supported (all bits will be included).
+   
+   
